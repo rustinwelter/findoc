@@ -1,0 +1,6 @@
+dist
+.venv
+*.mp4
+*.zip
+main.spec
+favicon.ico
