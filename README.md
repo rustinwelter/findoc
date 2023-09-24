@@ -2,6 +2,8 @@
 
 主に小説投稿サイトなどのための、テキストファイルの作成・編集を念頭において製作したテキストエディタです。目標文字数の設定および達成具合の確認及びライトテーマとダークテーマの選択が可能です。
 
+https://github.com/rustinwelter/findoc/assets/131769788/04eed2f5-8222-47d1-b4f5-9d82b688a84b
+
 Windows の方は Releases から exeファイル を含む zip ファイルをダウンロードできます。OS にかかわらず Python がインストールされている場合は、このリポジトリをクローンして
 
     pip install -r requirements.txt
